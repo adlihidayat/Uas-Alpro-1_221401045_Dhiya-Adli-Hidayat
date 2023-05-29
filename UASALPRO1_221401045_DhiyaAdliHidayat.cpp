@@ -168,7 +168,6 @@ userInput:
     else if (input == 5)
     {
         done();         // run done function
-        goto userInput; // go to userInput label
     }
     else
     {
